@@ -1,0 +1,31 @@
+.main-title {
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(177, 177, 177);
+    color: white;
+}
+
+.main-pic {
+    text-align: center;
+}
+
+.drink-description {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.list, .drink-list {
+    background-color: rgb(197, 197, 197);
+}
+
+.drink-list {
+    font-size:32px;
+}
+
+.list {
+    font-size: 18px;
+}
+
+.warning {
+    background: red;
+}
