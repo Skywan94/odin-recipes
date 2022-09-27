@@ -4,11 +4,12 @@ body {
 }
 
 .main-title {
-    font-size: 35px;
+    width:960px;
+    font-size: 64px;
     text-align: center;
     background-color: rgb(177, 177, 177);
     color: white;
-    margin: 25px 0px;
+    margin: 12px 0px 0px 0px;
 }
 
 .list-container {
