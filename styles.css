@@ -15,26 +15,28 @@ body {
 .list-container {
     display: flex;
     max-width: 960px;
-    height: 350px;
+    height: 45px;
     /*background-color: aquamarine;*/
     gap:25px;
-    margin:25px;  
+    margin:25px;
+    font-size: 35px; 
+    text-align: center;
     
 }
 
 #main-list-01 {
     flex:1;
-    background-color: red;     
+    background-color: rgb(177, 177, 177);   
 }
 
 #main-list-02 {
     flex:1;
-    background-color: blue;
+    background-color: rgb(177, 177, 177);
 }
 
 #main-list-03 {
     flex:1;
-    background-color: greenyellow;  
+    background-color: rgb(177, 177, 177);  
 }
 
 .drink-title {
